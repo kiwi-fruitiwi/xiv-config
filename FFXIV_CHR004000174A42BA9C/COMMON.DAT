@@ -1,6 +1,6 @@
 BattleEffectSelf	0
-BattleEffectParty	2
-BattleEffectOther	2
+BattleEffectParty	1
+BattleEffectOther	1
 BattleEffectPvPEnemyPc	0
 
 <GamePad Settings>
@@ -43,10 +43,10 @@ GroundTargetTPSPosY	45000
 TargetDisableAnchor	0
 TargetCircleClickFilterEnableNearestCursor	0
 TargetEnableMouseOverSelect	0
-GroundTargetCursorCorrectType	0
-GroundTargetActionExcuteType	0
-AutoNearestTarget	0
-AutoNearestTargetType	0
+GroundTargetCursorCorrectType	1
+GroundTargetActionExcuteType	1
+AutoNearestTarget	1
+AutoNearestTargetType	1
 RightClickExclusionPC	0
 RightClickExclusionBNPC	0
 RightClickExclusionMinion	0
@@ -70,7 +70,7 @@ TimeEorzea	0
 TimeLocal	1
 TimeServer	0
 ActiveLS_H	6225920
-ActiveLS_L	13556
+ActiveLS_L	35049
 HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -273,9 +273,9 @@ NamePlateDispTypeFeastPet	0
 NamePlateHpTypeFeastPet	2
 NamePlateNameTitleTypeFeast	1
 NamePlateDispSize	0
-NamePlateDispJobIcon	0
-NamePlateDispJobIconType	0
-NamePlateSetRoleColor	1
+NamePlateDispJobIcon	1
+NamePlateDispJobIconType	1
+NamePlateSetRoleColor	0
 NamePlateColorTank	4294942528
 NamePlateEdgeTank	4282392608
 NamePlateColorHealer	4284545152
@@ -373,7 +373,7 @@ LogPermeationRateLog3	30
 LogFontSizeLog4	14
 LogTimeDispLog4	1
 LogPermeationRateLog4	50
-LogFlyingHeightMaxErrDisp	1
+LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	1
 LogDragResize	1
 LogNameIconType	0
@@ -459,7 +459,7 @@ PlayGuideAreaChangeDisp	0
 MapPadOperationYReverse	0
 MapPadOperationXReverse	0
 MapDispSize	0
-FlyTextDispSize	1
+FlyTextDispSize	0
 PopUpTextDispSize	0
 DetailDispDelayType	0
 PartyListSortTypeTank	5
@@ -501,12 +501,12 @@ LetterListSortType	3
 ContentsReplayEnable	1
 MouseWheelOperationUp	1
 MouseWheelOperationDown	2
-MouseWheelOperationCtrlUp	5
-MouseWheelOperationCtrlDown	6
+MouseWheelOperationCtrlUp	0
+MouseWheelOperationCtrlDown	0
 MouseWheelOperationAltUp	0
 MouseWheelOperationAltDown	0
-MouseWheelOperationShiftUp	5
-MouseWheelOperationShiftDown	6
+MouseWheelOperationShiftUp	0
+MouseWheelOperationShiftDown	0
 TelepoTicketUseType	0
 TelepoTicketGilSetting	1
 TelepoCategoryType	1
